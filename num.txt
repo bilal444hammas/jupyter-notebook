@@ -1,0 +1,4 @@
+var a = s;
+var c = a++ - a-- + --a;
+console.log("a "+a);
+console.log("c = "+c);
